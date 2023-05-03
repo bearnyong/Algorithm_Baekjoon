@@ -1,4 +1,4 @@
-package baekjoon.step01.baekjoon002;
+package baekjoon.step01.baekjoon006;
 import java.util.Scanner;
 
 public class Main {
@@ -10,6 +10,10 @@ public class Main {
 		int b = sc.nextInt();
 		
 		System.out.println(a+b);
+		System.out.println(a-b);
+		System.out.println(a*b);
+		System.out.println(a/b);
+		System.out.println(a%b);
 	}
 
 }
