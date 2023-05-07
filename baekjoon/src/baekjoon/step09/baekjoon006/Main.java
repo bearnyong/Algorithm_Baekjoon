@@ -8,8 +8,14 @@ public class Main {
 		
 		Scanner sc = new Scanner(System.in);
 		int num = sc.nextInt();
-		
-		
+    	
+        for(int j=2; j<=num; j++){
+        	while(num%j==0) {
+        		System.out.println(j);
+        		num = num/j;
+        	}
+        	
+        }
 
 	}
 
