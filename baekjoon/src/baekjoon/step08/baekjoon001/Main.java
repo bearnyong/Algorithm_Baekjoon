@@ -11,7 +11,7 @@ public class Main {
 		int num = sc.nextInt();
 		int bub = sc.nextInt();
 		
-		for(int)
+		
 
 	}
 
