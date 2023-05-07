@@ -23,5 +23,7 @@
 
 
 #### 풀이과정
-help....
+<Main2> 참조...
 
+
+참고 : https://jjdevelop.tistory.com/m/20
